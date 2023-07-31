@@ -11,21 +11,24 @@ llsk;lksnd;lfk
 jsadl;sdn;l
 asnlndnlkasdlk
 wegsagsadgs
-<<<<<<< HEAD
+
 sgsgsgsgsything
-=======
+
 sgsgsgsgs
->>>>>>> feature
+
 
 
 la-la-lala-la-lalalala-lala-lalala-lalalalalala
 
-<<<<<<< HEAD
+
 some txt to be readed
 but I don't need to read anything
-=======
+
 
 alsf;aksf;akf;akfaf
 ;maslkflakjnlfja;fjmna
 lanfkaf lkamflkamsf 
->>>>>>> feature
+
+akasd;a';dma':Lmc;;,mmc:<amC:<amsc
+
+
